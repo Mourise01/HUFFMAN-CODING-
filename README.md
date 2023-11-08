@@ -29,7 +29,7 @@ NAME : Mourise jane
 REGISTER NUMBER : 212222230085
 ```
 ```
-string =  'L B L JAYAKRISHNAN 212222230052'
+string =  'L B L Mourise jane 212222230085'
 class NodeTree(object):
     def __init__(self, left=None, right=None):
         self.left = left
